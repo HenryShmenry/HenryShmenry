@@ -20,6 +20,7 @@ Many of these notes can be found around my page here (If they should be helpful 
   - Classical Dynamics
   - Vector & Complex Calculus
 - What I'm learning outside my course:
+  - How to USE GITHUB 😢
   - Blender Modelling
   - Quantum Mechanics (To be prepared for next year)
   - Business Management
