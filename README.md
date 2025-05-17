@@ -16,9 +16,8 @@ Many of these notes can be found around my page here (If they should be helpful 
   
 ## 🌱 I’m currently learning:
 - In my course, my current modules are:
-  - Metric Spaces 
-  - Classical Dynamics
-  - Vector & Complex Calculus
+  - Electromagnetism & Special Relativity
+  - Quantum Mechanics
 - What I'm learning outside my course:
   - How to USE GITHUB 😢
   - Blender Modelling
