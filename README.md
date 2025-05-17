@@ -25,11 +25,5 @@ Many of these notes can be found around my page here (If they should be helpful 
   - Quantum Mechanics (To be prepared for next year)
   - Business Management
 
-## 📫 How to reach me:
-You can reach me in many ways!
-- LinkedIn: <https://www.linkedin.com/in/henry-wise-18a828209/>
-- Instagram: <https://www.instagram.com/henry_wise574/>
-- University Email: <hw2221@york.ac.uk>
-
 > [!WARNING]
 > I'm still learning how to use everything, so watch out for any typos or errors in code! :+1:
