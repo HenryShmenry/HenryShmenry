@@ -37,5 +37,5 @@ In my course, my current modules are:
 
 I'm close to completing my degree, meaning I will have much much more free time on my hands to write and produce more random content! I look forward to it and hope that I can create something that you find just as exciting as I do! 
 
-> [!WARNING]
+> [!TIP]
 > I am always updating projects as I go along, so be sure to check back in case one of my repositories has had an update!
