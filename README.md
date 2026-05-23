@@ -16,6 +16,12 @@ The languages I will most likely be using are:
 
 Should any of my notes interest you, feel free to browse what other repos I have available!
 
+## My Goals for 2026:
+- [ ] Set up a HTML based CV
+- [ ] Create a website for my VA credits
+- [ ] Create an "everything" website
+- [ ] Organise every undergraduate assignment into one .tex file
+
 ## 👀 I’m interested in:
 - Mathematics
 - Ghostbusters
