@@ -12,6 +12,8 @@ Aside from code, it's very likely that I will also be utilising GitHub to host a
 The languages I will most likely be using are: 
  - Python (for random projects that require simple, but repetetive calculations)
  - R (in Rstudio, to perform exploratory analysis)
+ - Javascript (for interactive discord bots)
+ - HTML + CSS (for personal websites)
  - TeX (for creating beautiful PDFs to summarise my work)
 
 Should any of my notes interest you, feel free to browse what other repos I have available!
